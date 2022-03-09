@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>picture/Volvo.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>picture/people.png</file>
+  </qresource>
+</RCC>
